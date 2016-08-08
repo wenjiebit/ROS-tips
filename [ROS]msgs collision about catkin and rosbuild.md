@@ -1,0 +1,2 @@
+# tips
+1. 先编译catkin的话，是把msgs全部编译到系统里面了，在catkin基础上建立的rosbuild工作空间所使用相同名称的msgs的话，不需要再在rosbuild空间中添加msgs了。
